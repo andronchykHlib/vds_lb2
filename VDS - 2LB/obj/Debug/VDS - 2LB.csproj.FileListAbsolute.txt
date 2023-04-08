@@ -1,0 +1,7 @@
+D:\univ\ПАЛМ\VDS - 2LB\VDS - 2LB\bin\Debug\VDS___2LB.exe
+D:\univ\ПАЛМ\VDS - 2LB\VDS - 2LB\bin\Debug\VDS___2LB.pdb
+D:\univ\ПАЛМ\VDS - 2LB\VDS - 2LB\obj\Debug\VDS - 2LB.csproj.AssemblyReference.cache
+D:\univ\ПАЛМ\VDS - 2LB\VDS - 2LB\obj\Debug\VDS - 2LB.csproj.SuggestedBindingRedirects.cache
+D:\univ\ПАЛМ\VDS - 2LB\VDS - 2LB\obj\Debug\VDS - 2LB.csproj.CoreCompileInputs.cache
+D:\univ\ПАЛМ\VDS - 2LB\VDS - 2LB\obj\Debug\VDS___2LB.exe
+D:\univ\ПАЛМ\VDS - 2LB\VDS - 2LB\obj\Debug\VDS___2LB.pdb
